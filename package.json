@@ -1,0 +1,22 @@
+{
+  "name": "Cardinal Alpha",
+  "version": "1.1.5",
+  "description": "Cardinal",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "start": ""
+  },
+  "keywords": [
+    "educational",
+    "math",
+    "science"
+  ],
+  "author": "Nebula Services",
+  "license": "ISC",
+  "dependencies": {
+    "bare-server-node": "github:tomphttp/bare-server-node",
+    "node-static": "^0.7.11"
+  }
+}
